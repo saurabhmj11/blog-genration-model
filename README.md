@@ -1,0 +1,1 @@
+# blog-genration-model
